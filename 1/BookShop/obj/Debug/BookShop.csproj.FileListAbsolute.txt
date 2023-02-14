@@ -1,0 +1,791 @@
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\email.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\email.pdb
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.Welcome.resources
+C:\Users\SWAPNA\Desktop\BookShop\BookShop\obj\Debug\BookShop.Home.resources
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.createbill.resources
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.Home.resources
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.sendorder.resources
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.Welcome.resources
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\email.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\email.pdb
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\SWAPNA\Desktop\FINAL PROJECT 1111\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\BookShop.exe
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\BookShop.pdb
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\email.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\email.pdb
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\User\Desktop\BookShoporg\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.createbill.resources
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.Home.resources
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.Inventory.resources
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.sendorder.resources
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.Welcome.resources
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.exe
+C:\Users\User\Desktop\BookShoporg\BookShop\obj\Debug\BookShop.pdb
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\User\Desktop\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\User\Desktop\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\User\Desktop\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\User\Desktop\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\User\Desktop\1\BookShop\bin\Debug\email.dll
+C:\Users\User\Desktop\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\User\Desktop\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\User\Desktop\1\BookShop\bin\Debug\email.pdb
+C:\Users\User\Desktop\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\User\Desktop\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\User\Desktop\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Welcome_Page.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Dashboard2.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Search_Customer.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Customer_Orders.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Supplier_Details.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Supplier.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Book_Details.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.BookDetails.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Stock_Details.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.View_Supplier.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Dashboard1.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Customer_Orders_Details.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Customer.resources
+C:\Users\User\Desktop\1\BookShop\obj\Debug\BookShop.Supply_Book.resources
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\email.dll
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\email.pdb
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\USER\Downloads\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.BookDetails.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Book_Details.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Customer.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Customer_Orders.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Customer_Orders_Details.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Dashboard1.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Dashboard2.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Search_Customer.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Stock_Details.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Supplier.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Supplier_Details.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Supply_Book.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.View_Supplier.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.Welcome_Page.resources
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\USER\Downloads\1\BookShop\obj\Debug\BookShop.weekly_sales_report.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\email.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\email.pdb
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.BookDetails.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Book_Details.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Orders.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Orders_Details.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Dashboard1.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Dashboard2.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Search_Customer.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Stock_Details.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Supplier.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Supplier_Details.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Supply_Book.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.View_Supplier.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.weekly_sales_report.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.Welcome_Page.resources
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\USER\Desktop\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\email.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\email.pdb
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.BookDetails.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Book_Details.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Orders.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Orders_Details.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Dashboard1.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Dashboard2.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Login.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Search_Customer.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Stock_Details.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Supplier.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Supplier_Details.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Supply_Book.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.View_Supplier.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.weekly_sales_report.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.Welcome_Page.resources
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\hp\Desktop\fdgdfgfddf\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\email.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\EnvDTE.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\email.pdb
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.BookRegister.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SettingsPanal.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Assistant_Dashboard2.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Manager_Dashboard1.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.ResetPassword.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SendCode.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.login123.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.UserRegistor.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.SupplierForm.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.Reports.resources
+C:\Users\hp\Desktop\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.MailForm.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\email.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\EnvDTE.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\email.pdb
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.BookRegister.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.Purchase_order_Report.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SettingsPanal.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Assistant_Dashboard2.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Manager_Dashboard1.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.SupplierForm.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.ResetPassword.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SendCode.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.login123.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.UserRegistor.resources
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\hp\Desktop\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\email.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\EnvDTE.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\email.pdb
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.BookRegister.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.Purchase_order_Report.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SettingsPanal.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Assistant_Dashboard2.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Manager_Dashboard1.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.SupplierForm.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.ResetPassword.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SendCode.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.login123.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.UserRegistor.resources
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\hp\Desktop\New folder (4)\fiiiiiiii\newwwwwwwwwww\New folder (2)\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\email.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\EnvDTE.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\email.pdb
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.BookRegister.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.Purchase_order_Report.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SettingsPanal.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Assistant_Dashboard2.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Manager_Dashboard1.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.SupplierForm.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.ResetPassword.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SendCode.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.login123.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.UserRegistor.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Reports_Invoice.resources
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\RdlCompile.cache
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\RdlCompile.compiled
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\hp\Desktop\Rash Final\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\email.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\EnvDTE.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\email.pdb
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.BookRegister.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SettingsPanal.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Assistant_Dashboard2.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Manager_Dashboard1.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.SupplierForm.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.ResetPassword.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SendCode.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.login123.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.UserRegistor.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.Reports.resources
+C:\Users\hp\Desktop\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe.config
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.exe
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\BookShop.pdb
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\DotLiquid.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\email.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Design.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\MetroFramework.Fonts.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\EnvDTE.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\stdole.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\Microsoft.MSXML.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\email.pdb
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ServiceStack.Text.xml
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\System.Reactive.xml
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\DotLiquid.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.BookRegister.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.Reports.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SettingsPanal.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Customer_Registration.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Assistant_Dashboard2.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Manager_Dashboard1.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Invoice.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Forms.SupplierForm.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.Purshase_Order.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.ResetPassword.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.SendCode.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.login123.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.UserRegistor.resources
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.GenerateResource.cache
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.exe
+G:\Campus Lecture\System design diploma lectures\fine night\final project\nimansafinal\1\BookShop\obj\Debug\BookShop.pdb

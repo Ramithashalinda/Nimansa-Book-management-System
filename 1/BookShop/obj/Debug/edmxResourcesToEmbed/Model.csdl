@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NorthwindModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="NorthwindEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetInvoiceReport" ReturnType="Collection(NorthwindModel.GetInvoiceReport_Result)">
+      <Parameter Name="FromeDate" Mode="In" Type="DateTime" />
+      <Parameter Name="ToDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="GetInvoiceReport_Result">
+    <Property Type="String" Name="Invoice_No" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="customer_id" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="book_id" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="book_name" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="qty" Nullable="true" />
+    <Property Type="Double" Name="price" Nullable="true" />
+    <Property Type="Double" Name="discount" Nullable="true" />
+    <Property Type="Double" Name="Amount" Nullable="true" />
+  </ComplexType>
+</Schema>
