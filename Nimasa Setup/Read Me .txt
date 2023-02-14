@@ -1,0 +1,5 @@
+------------------------folowing the rools--------------------
+
+
+1)  Select Configuration Files as two file ("NIMANSABOOKS_BACKUP" AND "NIMANSABOOKS_CONFIGURATION_FILES") copy to in computer "C" drive in hard disk name. 
+2)  Install the setup..just run the program .exe file.
